@@ -1,0 +1,17 @@
+{
+  "name": "sample_port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "homepage": "https://github.com/Heart8reak/sampleportfolio.git",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
